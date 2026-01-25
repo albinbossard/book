@@ -1,7 +1,9 @@
 # BOOK Albin BOSSARD
 
 ## Qui suis-je ?
-Je suis né en 2009 à rennes et passioné de dessin et création et voici donc mon book :
+
+Je suis né en 2009 à rennes et passionné de dessin et création et voici donc mon book :
+
 ## Réalisations
 
 ### Tortue de mer
@@ -9,7 +11,7 @@ Je suis né en 2009 à rennes et passioné de dessin et création et voici donc 
 ![](photos/tortue-de-mer.jpg)
 
 **Techniques** : croquis au crayon de papier puis repassage à la plume et application 
-de gouache mélangé à du produit vaiselle pour créer des bulles que l'ont laisse éclater
+de gouache mélangé à du produit vaisselle pour créer des bulles que l'ont laisse éclater
 pour créer les effets.
 
 ### Ferrari vintage
@@ -30,9 +32,9 @@ Date de réalisation : 2 décembre 2024
 
 ![](photos/chaussure-potterie.jpg)
 
-**Techniques** : Réalisation de la base en terre rembourée avec du papier journal
+**Techniques** : Réalisation de la base en terre rembourrée avec du papier journal
 puis détails avec des outils précis, perçage de trous pour les lacets et enfin peinture
-puis cuisson à 1800 degrès !
+puis cuisson à 1800 degrés !
 Date de réalisation : 2023
 
 
@@ -41,12 +43,12 @@ Date de réalisation : 2023
 J'ai postulé pour rejoindre l'association FF musique et son projet de jeux.
 Cela me permet de créer des objets 3D qui auront une utilité
 TODO: METTRE IMAGE PORTE
-https://www.jeveuxaider.gouv.fr/
+<https://www.jeveuxaider.gouv.fr/>
 
 ## Stages en entreprise
 
 **Stage chez Hiboost :**
 
-Mon stage de 3ème a été réalisé chez l'entrepise Hiboost ( https://www.hiboost.fr/ )
+Mon stage de 3ème a été réalisé chez l'entreprise Hiboost ( <https://www.hiboost.fr/> )
 J'ai pu voir le déroulement de 3 journées de projet de la création UI/UX au code et
-passer du temps pour observer les différents métiers prèsents.
+passer du temps pour observer les différents métiers présents.
