@@ -45,6 +45,12 @@ Date de réalisation : 2023
 
 TODO ajouter description
 
+### Steampunk zeppelin
+
+![](photos/zeppelin.jpg)
+
+TODO ajouter description
+
 ## Projets collaboratifs
 
 J'ai postulé pour rejoindre l'association FF musique et son projet de jeux.
