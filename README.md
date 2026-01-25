@@ -6,7 +6,7 @@ Je suis né en 2009 à rennes et passioné de dessin et création et voici donc 
 
 ### Tortue de mer
 
-![](tortue-de-mer.jpg)
+![](photos/tortue-de-mer.jpg)
 
 **Techniques** : croquis au crayon de papier puis repassage à la plume et application 
 de gouache mélangé à du produit vaiselle pour créer des bulles que l'ont laisse éclater
@@ -20,7 +20,7 @@ Date de réalisation : 14 mars 2025
 
 ### Éléphant portant un bateau sur son dos
 
-![](elephant-encre.jpg)
+![](photos/elephant-encre.jpg)
 
 **Techniques** : Esquisse au crayon de papier puis repassage à la plume.
 
