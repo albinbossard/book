@@ -10,11 +10,13 @@ Je suis né en 2009 à rennes et passionné de dessin et création et voici donc
 
 ![](photos/tortue-de-mer.jpg)
 
-**Techniques** : croquis au crayon de papier puis repassage à la plume et application 
+**Techniques** : croquis au crayon de papier puis repassage à la plume et application
 de gouache mélangé à du produit vaisselle pour créer des bulles que l'ont laisse éclater
 pour créer les effets.
 
 ### Ferrari vintage
+
+![](photos/ferrari-vintage.jpg)
 
 **Techniques** : croquis au crayon de papier puis gouache et stylo blanc.
 
