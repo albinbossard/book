@@ -83,3 +83,6 @@ J'avais mon propre bureau ; on m'a donc confié plusieurs taches qui étaient si
 recadrer certaines images et les mettre dans des cadres et enfin placer un carré sur les différents personnages. 
 J'ai ausssi eu le temps de regarder plusieurs tutoriel blender car pour dessiner certaines scènes il fallait des perspectives déja calculées par
 Blender. ( <https://www.vivement-lundi.com/> )
+
+**Stage chez Orange :**
+
