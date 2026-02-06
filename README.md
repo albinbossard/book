@@ -2,7 +2,8 @@
 
 ## Qui suis-je ?
 
-Je suis né en 2009 à rennes et passionné de dessin et création et voici donc mon book :
+Je suis né en 2009 à Rennes et actuellement lyceen au lycée Ozanam à Cesson-Sévigné.
+Je suis passionné de dessin et création -art plastique (+10 années). Voici le book de mes principales réalisations et experiences que j'ai réalisées :
 
 ## Réalisations
 
@@ -70,8 +71,15 @@ TODO: METTRE IMAGE PORTE => non car secret pas le droit
 Mon stage de 3ème a été réalisé chez l'entreprise Hiboost ( <https://www.hiboost.fr/> )
 J'ai pu voir le déroulement de 3 journées de projet de la création UI/UX au code et
 passer du temps pour observer les différents métiers présents : 
-UI/UX : Il travaille sur un logiciel qui perlet d'avoir une preview de toutes les
+UI/UX : Il travaille sur un logiciel qui permet d'avoir une preview de toutes les
 pages du site et travaille surtout sur son design et animation et enfin l'ergonomie.
 Développeur Web : Son travail consiste à faire la structure du site et faire fonctionner 
 toute la partie design.
 
+**Stage chez Vivement Lundi :**
+
+Studio d'animation- dessin animés basé a Rennes j'y ai passé 1 semaine pendant laquelle les employés me présentent leur différents métiers 
+J'avais mon propre bureau ; on m'a donc confié plusieurs taches qui étaient simples mais leur faisaient gagner du temps sur Photoshop : je devais 
+recadrer certaines images et les mettre dans des cadres et enfin placer un carré sur les différents personnages. 
+J'ai ausssi eu le temps de regarder plusieurs tutoriel blender car pour dessiner certaines scènes il fallait des perspectives déja calculées par
+Blender. ( <https://www.vivement-lundi.com/> )
