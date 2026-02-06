@@ -37,25 +37,30 @@ Date de réalisation : 2 décembre 2024
 **Techniques** : Réalisation de la base en terre rembourrée avec du papier journal
 puis détails avec des outils précis, perçage de trous pour les lacets et enfin peinture
 puis cuisson à 1800 degrés !
+
 Date de réalisation : 2023
 
 ### Antilope
 
 ![](photos/antilope.jpg)
 
-TODO ajouter description
+Fond de l'oeuvre avec peinture épaisse (cire + gouache) puis esquisse au crayon de papier et ajout par 
+mini touche de peinceau de la fourure de l'animal puis détails avec mini peinceau.
 
 ### Steampunk zeppelin
 
 ![](photos/zeppelin.jpg)
 
-TODO ajouter description
+Traits principaux au crayon de papier puis repassage au stylo noir et ajout d'encre qui permet de créer cet effet steampunk avec 
+les variations de couleur.
 
-## Projets collaboratifs
+Date de réalisation : 2023 
+
+### Projets collaboratifs
 
 J'ai postulé pour rejoindre l'association FF musique et son projet de jeux.
-Cela me permet de créer des objets 3D qui auront une utilité
-TODO: METTRE IMAGE PORTE
+Cela me permet de créer des objets 3D qui auront une utilité pour un ajout futur dans le jeu.
+TODO: METTRE IMAGE PORTE => non car secret pas le droit
 <https://www.jeveuxaider.gouv.fr/>
 
 ## Stages en entreprise
@@ -64,4 +69,9 @@ TODO: METTRE IMAGE PORTE
 
 Mon stage de 3ème a été réalisé chez l'entreprise Hiboost ( <https://www.hiboost.fr/> )
 J'ai pu voir le déroulement de 3 journées de projet de la création UI/UX au code et
-passer du temps pour observer les différents métiers présents.
+passer du temps pour observer les différents métiers présents : 
+UI/UX : Il travaille sur un logiciel qui perlet d'avoir une preview de toutes les
+pages du site et travaille surtout sur son design et animation et enfin l'ergonomie.
+Développeur Web : Son travail consiste à faire la structure du site et faire fonctionner 
+toute la partie design.
+
