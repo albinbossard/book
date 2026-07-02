@@ -9,7 +9,7 @@ Je suis passionné de dessin et création -art plastique (+10 années). Voici le
 
 ### Monstres issu de formes aléatoires.
 
-photo
+![](photos/monstre et extraterrestre.jpg)
 
 **Techniques** : On a pris une truelle et on a tracé des formes au hasard avec de la gouache sur le papier.
 Avec les 3 taches différentes que j'avais obtenu j'ai décidé de former une scène complète en ajoutant les détails
@@ -19,7 +19,7 @@ soucoupe spatiale pour l'extraterrestre en bas à gauche.
 
 ### Reprise d'une oeuvre de Hokusai
 
-photo
+![](photos/reprise-hokusai.jpg)
 
 **Techniques** : J'ai décidé de refaire une petite partie d'une oeuvre de Hokusai et de lui ajouter des détails car c'était un zoom sur l'oeuvre.
 La lune a étée faite au stylo, le reste des couleurs sont de la gouache et du posca.
