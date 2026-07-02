@@ -7,6 +7,25 @@ Je suis passionné de dessin et création -art plastique (+10 années). Voici le
 
 ## Réalisations
 
+### Monstres issu de formes aléatoires.
+
+photo
+
+**Techniques** : On a pris une truelle et on a tracé des formes au hasard avec de la gouache sur le papier.
+Avec les 3 taches différentes que j'avais obtenu j'ai décidé de former une scène complète en ajoutant les détails
+nécessaires pour leur donner vie : yeux et dents pour le monstre, structure métallique pour le robot et enfin contour de 
+soucoupe spatiale pour l'extraterrestre en bas à gauche.
+
+
+### Reprise d'une oeuvre de Hokusai
+
+photo
+
+**Techniques** : J'ai décidé de refaire une petite partie d'une oeuvre de Hokusai et de lui ajouter des détails car c'était un zoom sur l'oeuvre.
+La lune a étée faite au stylo, le reste des couleurs sont de la gouache et du posca.
+
+Date de réalisation : 10 avril 2026
+
 ### Tortue de mer
 
 ![](photos/tortue-de-mer.jpg)
